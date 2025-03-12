@@ -3,12 +3,17 @@
 This is a client project built using [Vite](https://vitejs.dev/) and [React](https://reactjs.org/). It is designed to interact with the [JSON Placeholder API](https://jsonplaceholder.typicode.com/), providing a simple interface to retrieve and display data.
 
 ## Table of Contents
+- [Requirements](#requirements)
 - [Environment Variables](#environment-variables)
 - [Installation](#installation)
 - [Development](#development)
 - [Building for Production](#building-for-production)
 - [License](#license)
 
+
+## Requirements
+
+- Node.js v18.20.7
 
 ## Environment Variables
 
